@@ -29,6 +29,10 @@
 			</div>
 			</div>
 			<p> ce sont les images que l'on met</p>
+
+			<p> Mais pourtant c'est super ce truc là</p>
+			<p> Il y a bien des choses à voir</p>
+			<p> ainsi font-elles ça</p>
 		</div>
 
 
