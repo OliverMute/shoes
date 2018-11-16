@@ -28,6 +28,7 @@
 				<img class="img-fluid" src="images/4.jpg">
 			</div>
 			</div>
+			<p> ce sont les images que l'on met</p>
 		</div>
 
 
